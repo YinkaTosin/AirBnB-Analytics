@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NEW YORK CITY AIRBNB (2019) DATA ANALYSIS
 ![Airbnb logo](airbnb.jpg)
 
